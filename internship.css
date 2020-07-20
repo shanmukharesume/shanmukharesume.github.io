@@ -1,0 +1,75 @@
+h1{
+	font-size: 80px;
+	font-variant: small-caps;
+	text-align: center;
+	font-family: georgia;
+
+}
+header{
+	background-color: skyblue;
+	border: 2px solid grey;
+	border-radius: 25px;
+	background: linear-gradient(#3f81b5 0%,#00bcd424 100%);
+}
+nav{
+
+	font-size: 25px;
+	margin-right: 10px;
+	padding-bottom: 3px; 
+	}
+nav a{
+	color: black;
+	text-decoration: none;
+	background-color: white;
+	margin: 20px;
+	padding: 2px;
+	border-radius: 15px;
+	font-style: italic;
+}
+nav a:hover{
+	background:grey;
+}
+.four{
+	background: #0000ff70;
+}
+ul{
+	margin: 20px;
+	font-size: 25px;
+}
+.A{
+
+	border: 1px solid grey;
+	border-radius: 10px;
+	font-family: Chaparral Pro;
+	transition-property: color,font-size,font-style;
+	transition-duration: 1s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 1s;
+}
+.B{
+
+	border: 1px solid grey;
+	border-radius: 10px;
+	font-family: Chaparral Pro;
+	transition-property: color,font-size,font-style;
+	transition-duration: 1s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 1s;
+
+}
+.A:hover{
+	color: green;
+	font-size: 35px;
+	font-style: italic;
+	background-color: skyblue;
+	opacity: 0.7;
+	transform: rotate(360deg);
+}
+.B:hover{
+	color: green;
+	font-size: 35px;
+	font-style: italic;s
+	background-color: skyblue;
+	opacity: 0.7;
+	transform: rotate(360deg);
+}

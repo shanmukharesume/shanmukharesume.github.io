@@ -2,7 +2,7 @@ h1{
 	font-size: 80px;
 	font-variant: small-caps;
 	text-align: center;
-	font-family: georgia;
+	
 
 }
 header{
@@ -33,18 +33,9 @@ nav a:hover{
 	background: #0000ff70;
 }
 table{
-	font-size: 25px;
+	font-size: 28px;
 	margin: 20px;
 	border-color: red;
 	font-family: Chaparral Pro;
-	transition-property: font-size,border-radius,color;
-	transition-duration: 1s;
-	transition-timing-function: ease-in-out;
-	transition-delay: 1s;
-}
-table:hover{
-	font-size: 35px;
-	font-style: italic;
-	color: orange;
-	border-radius: 20px;
+	
 }

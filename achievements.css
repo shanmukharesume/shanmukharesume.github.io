@@ -2,7 +2,6 @@ h1{
 	font-size: 80px;
 	font-variant: small-caps;
 	text-align: center;
-	font-family: georgia;
 
 }
 header{
@@ -35,14 +34,4 @@ nav a:hover{
 ul{
 	font-size: 25px;
 	font-family:  Chaparral Pro;
-}
-li{
-	transition-property: font-size,color;
-	transition-timing-function: ease-in-out;
-	transition-duration: 1s;
-	transition-delay: .2s;
-}
-li:hover{
-	font-size: 40px;
-	color: orange;
 }

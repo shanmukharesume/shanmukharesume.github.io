@@ -2,7 +2,7 @@ h1{
 	font-size: 80px;
 	font-variant: small-caps;
 	text-align: center;
-	font-family: georgia;
+
 
 }
 header{
@@ -34,7 +34,7 @@ nav a:hover{
 }
 ul{
 	font-size: 30px;
-	font-family: comic sans MS;
+	
 }
 .a{
 	border-radius: 15px;

@@ -2,7 +2,7 @@ h1{
 	font-size: 80px;
 	font-variant: small-caps;
 	text-align: center;
-	font-family: georgia;
+
 
 }
 header{
@@ -40,9 +40,4 @@ details{
 	transition-timing-function: ease-in-out;
 	transition-duration: 1s;
 	transition-delay: 0s;
-}
-details:hover{
-	font-size: 40px;
-	color: green;
-	font-family: ink free;
 }
